@@ -26,5 +26,3 @@ do
  fi
 done
 
-echo "make ran on $(date)"
-echo "Number of lines of code contained in guessinggame.sh: $(wc -l guessinggame.sh)"
